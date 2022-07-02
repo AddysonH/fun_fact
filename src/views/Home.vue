@@ -65,7 +65,6 @@ export default {
         'There are over 75 million pet dogs in the U.S. more than in any other country.',
         'All puppies are born deaf.',
         'Dogs belong to the Canidae family. The term is derived from the Latin term ‘canis’, which means dog. Although they come in various sizes, those that are categorized as canids typically have upright ears and tails, long muzzles, and teeth capable of tearing through flesh and cracking bones.',
-        'Apple and pear seeds contain arsenic, which may be deadly to dogs.',
         'Dogs have sweat glands in between their paws.',
         'Dogs have three eyelids. The third lid, called a nictitating membrane or “haw,” keeps the eye lubricated and protected.'
       ],
